@@ -25,6 +25,8 @@ You as a network admin have just been told that 3 different protocols are being 
 - In each document, you should include:
 
   1. A title indicating what application-layer protocol is being used.
+  
+![protocol-1-Mystery](Challenge-1/work-1-mystery/protocol-1-mystery.png)
 
   2. 1-2 paragraphs explaining how that protocol works and what it is used for. Include images and diagrams as necessary. Explain the steps taken in communication of the protocol.
 
