@@ -18,7 +18,7 @@ You as a network admin have just been told that 3 different protocols are being 
 
 - Open up [Resources/Chal-1_Mystery-PCAPs](Resources/Chal-1_Mystery-PCAPs)
 
-  - In this folder, you'll find three "mystery.pcapng" files.
+  - In this folder, you'll find three "mystery.pcapng" files. test
 
 - To complete this challenge, you'll submit 3 documents in your **Challenge-1** folder, one for each mystery file. Name the files `1-Mystery`, `2-Mystery`, and `3-Mystery`.
 
