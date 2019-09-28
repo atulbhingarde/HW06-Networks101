@@ -127,7 +127,3 @@ Using your wits and the internet, determine how to extract **files** with differ
 - Bonus: Use `curl` to download one of the files you can't find in Wireshark.
 
 -----
-
-## Copyright
-
-Trilogy Education Services © 2018. All Rights Reserved.
