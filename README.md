@@ -12,7 +12,7 @@ There are a few concepts we haven't covered here! You'll have to do some researc
 
 3. Inside your **05-Wireshark-Analysis** folder, include three subfolders (Challenge-1, Challenge-2, Challenge-3), one for each of the assignments.
 
-## Challenge 1: Dissecting Mystery PCAPs
+## Challenge 1: Dissecting Mystery  test
 
 You as a network admin have just been told that 3 different protocols are being used on your network, and have been asked to investigate.
 
